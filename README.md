@@ -1,2 +1,2 @@
 # SingletJModel
-Simulations and code for studying singlet majaron model.
+Simulations and code for studying singlet majoron model.
